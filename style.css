@@ -1,0 +1,46 @@
+a:hover{
+  color: purple;
+}
+body {
+background-image: url('image.png');
+    background-position: center;    
+	font-family: sans-serif
+}
+.background-image h1, h2, h3, h4 {
+   text-align: center;
+   color: beige
+}
+
+.projects {
+background-image: url('image.png');
+	background-size: cover;
+   background-position: center; 
+	
+}
+a, ul, ol{
+	color: white
+}
+
+.poem p{
+	color:white;
+}
+.poem h1{
+	color:Beige;
+	text-align: center;
+}
+.cs {
+	color:red;
+	font-weight:bolder
+}
+.gsu {
+	color:red;
+	font-weight:bolder
+}
+.swe {
+	color:red;
+	font-weight:bolder
+}
+.suc {
+	color:red;
+	font-weight:bolder
+}
